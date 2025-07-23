@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Python Lambda Examples** is a repository featuring an [IPython notebook](lambda_functions.ipynb) that demonstrates best practices for using **lambda functions** in Python. The notebook covers a variety of use cases, including basic arithmetic, conditional logic, functional programming with `map`, `filter`, and `reduce`, sorting, nested lambdas, and data manipulation with `pandas`. This project is ideal for Python developers, data scientists, and learners exploring the power and flexibility of lambda functions.
+**Python Lambda Examples** is a repository featuring an [IPython notebook](lambda_best_practices.ipynb) that demonstrates best practices for using **lambda functions** in Python. The notebook covers a variety of use cases, including basic arithmetic, conditional logic, functional programming with `map`, `filter`, and `reduce`, sorting, nested lambdas, and data manipulation with `pandas`. This project is ideal for Python developers, data scientists, and learners exploring the power and flexibility of lambda functions.
 
 ## Table of Contents
 
